@@ -3,3 +3,4 @@
 %uri=https://github.com/VicenteLuz/aula.git
 
 schema_escola 2016-02-26T14:12:48Z vicente <vicente.luz@armazemparaiba.com.br> # criar um squema para bd escola
+aluno [schema_escola] 2016-02-26T14:44:50Z vicente <vicente.luz@armazemparaiba.com.br> # cria tabela aluno
