@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/VicenteLuz/aula.git
+
+schema_escola 2016-02-26T14:12:48Z vicente <vicente.luz@armazemparaiba.com.br> # criar um squema para bd escola
